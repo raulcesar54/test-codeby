@@ -68,6 +68,7 @@ const Home: NextPage = () => {
             <Container  style={{ paddingBottom: '0' }}>
               <Button>Finalizar compra</Button>
             </Container>
+            
           </>
         )}
       </Modal>
